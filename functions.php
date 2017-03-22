@@ -5,3 +5,5 @@ function theme_enqueue_styles() {
 
 }
 //以下に子テーマ用の関数を書く
+
+?>
